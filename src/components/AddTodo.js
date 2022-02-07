@@ -36,7 +36,7 @@ const Wrap = styled.div`
     font-size: 22px;
     width: 320px;
     border: none;
-    height: 36px;
+    height: 40px;
     font-weight: 600;
     border-radius: 5px;
   }
@@ -44,7 +44,7 @@ const Wrap = styled.div`
     border-radius: 5px;
     font-size: 22px;
     border: none;
-    height: 36px;
+    height: 40px;
     color: white;
     font-weight: 600;
     margin-left: 10px;
